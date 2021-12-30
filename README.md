@@ -1,0 +1,1 @@
+# Shaf-says I want help to debug this code as it should sahow the menu options when the page is made smaller. It works on the tutorial but on my side it is not working, please help I want it to show the menu options when you make the page smaller under the menu icon.
